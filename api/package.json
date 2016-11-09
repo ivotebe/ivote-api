@@ -11,10 +11,14 @@
   "dependencies": {
     "body-parser": "^1.15.2",
     "cors": "^2.8.1",
+    "elasticsearch": "^12.0.1",
     "errorhandler": "^1.4.3",
     "express": "^4.14.0",
     "express-jwt": "^5.1.0",
+    "jsonschema": "^1.1.0",
     "kafka-node": "^1.0.4",
-    "log4js": "^0.6.38"
+    "log4js": "^0.6.38",
+    "q": "^1.4.1",
+    "underscore": "^1.8.3"
   }
 }
